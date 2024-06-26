@@ -1,1 +1,1 @@
-ec2_instance_name = santhosh-server
+ec2_instance_name = "santhosh-server"
